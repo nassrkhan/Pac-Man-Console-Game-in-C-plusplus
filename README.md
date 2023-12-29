@@ -1,4 +1,3 @@
-```markdown
 # Pac-Man Console Game in C++
 
 ## Overview
@@ -12,8 +11,8 @@ This project is a console-based implementation of the iconic Pac-Man game using 
 - [License](#license)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/pacman-console.git`
-2. Compile the code using a C++ compiler (e.g., DEV C++).
+1. Clone the repository: `git clone https://github.com/your-username/Pac-Man Console Game in C++.git`
+3. Compile the code using a C++ compiler (e.g., DEV C++).
 
 ## Usage
 Run the compiled executable to start the Pac-Man console game. Use arrow keys for Pac-Man movement and interact with the game to score points.
