@@ -11,7 +11,7 @@ This project is a console-based implementation of the iconic Pac-Man game using 
 - [License](#license)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/Pac-Man Console Game in C++.git`
+1. Clone the repository: `git clone https://github.com/nassrkhan/Pac-Man Console Game in C++.git`
 3. Compile the code using a C++ compiler (e.g., DEV C++).
 
 ## Usage
